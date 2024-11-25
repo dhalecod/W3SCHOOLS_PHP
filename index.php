@@ -1,4 +1,5 @@
 <?php
-$favorite = "code, gym, study, sing";
-echo "wow Dev_Marcus is a software engineer and he love to " . $favorite;
+//here is a detailed info above Dev Marcus
+$devMarcusinfo = "coding, gyming, studyng, and singing";
+echo "Dev_Marcus is a software engineer and his favorite activities are" . $devMarcusinfo;
 ?>
