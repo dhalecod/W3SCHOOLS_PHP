@@ -1,3 +1,6 @@
 <?php
-echo strtolower("I am Dev_Marcus");
+$x = "Makinde";
+$y = "Williams";
+$z = "$x $y";
+echo "$z";
 ?>
