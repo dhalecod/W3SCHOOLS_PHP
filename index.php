@@ -1,3 +1,3 @@
 <?php
-echo strlen("I am Dev_Marcus");
+echo str_word_count("I am Dev_Marcus");
 ?>
