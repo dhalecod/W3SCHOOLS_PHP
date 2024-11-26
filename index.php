@@ -1,3 +1,3 @@
 <?php
-strlen("I am Dev_Marcus");
+echo strlen("I am Dev_Marcus");
 ?>
