@@ -1,3 +1,3 @@
 <?php
-echo strtoupper("I am Dev_Marcus", "am");
+echo strtoupper("I am Dev_Marcus");
 ?>
